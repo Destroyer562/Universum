@@ -1,0 +1,54 @@
+<html>
+
+    <body
+
+
+<h1>Responses to players for NPC</h1> <br/>
+
+<p>The Following Responses will be listed for each NPC jugded by their role in the game</p><br/>
+
+<h3><i>Shop Owner and or General Store (Not the merchant)</i> </h3> <br/>
+
+<p>Will provide the following responses or how the conversation will go.</p>
+
+
+<ul>
+    <li> Hello How may I help you? </li> <br/>
+    
+    <li>Would you like to view the shop?</li> <br/>
+    
+    <li>You are going to purchase "Item" for "Money"?</li> <br/>
+    
+    <li>Okay?</li> <br/>
+
+    <li>Thank you, sir! Hope you Enjoy your purchase of "Item"!</li> <br/>
+
+    <li>Have a nice day!</li> <br/>
+</ul> 
+
+    <h3><i>Merchants</i></h3>
+<ul>
+    <li>Hello are you dropping off Cargo or wanting to pick up cargo? </li> <br/>
+    
+    <li>What cargo are you dropping off?</li> <br/>
+    
+    <li>What Cargo are you wishing to pick up?</li> <br/>
+    
+    <li>Thank you for dropping off "Cargo" you have earned "Money" </li> <br/>
+    
+    <li>You want to pick up "Cargo"? </li> <br/>
+    
+    <li>How many boxes do you want of that "Cargo"? </li> <br/>
+    
+    <li>Here is your "Cargo" That will cost you "Money".</li> <br/>
+     
+    <li>Thank you have save travels </li> <br/>
+    
+</ul>
+    
+    
+    
+    </body>
+    
+    
+</html>

@@ -1,1 +1,52 @@
+<html>
 
+
+    <body>
+    
+    
+    
+    
+   
+        <h3><font face="Times New Romans" font size="4" Color="Blue"><i>The Commands for the game.</i> </font> </h3> 
+
+
+
+    <ul>
+        <li>"G" = Inventory Menu</li> <br/>
+        
+        <li>"C" = Charecter Info</li> <br/>
+        
+        <li>"L-Shift" = Sprint</li> <br/>
+        
+        <li>"L-Shift" = Shift Lock .Only if turned on.</li> <br/>
+        
+        <li>"T" = Open Talk with NPC (Brings up chat box) </li> <br/>
+        
+        <li>"E" = Pick up an item </li> <br/>
+        
+        <li>"R" = Reload </li> <br/>
+        
+        <li>"F" = Fire </li> <br/>
+        
+        <li>"U" =Use Item </li> <br/>
+        
+        <li>"Left-Click" = If meele weponen: to swing </li> <br/>
+        
+        <li>"Right-Click" = If meele Weponen: To block </li> <br/>
+        
+        <li>"Z" = To squat </li> <br/>
+        
+        <li>"M" = To crawl </li> <br/>
+        
+        <li>"Q" = To sit </li> <br/>
+        
+    </ul>
+        
+        
+        
+        
+        
+    </body>
+    
+    
+</html>

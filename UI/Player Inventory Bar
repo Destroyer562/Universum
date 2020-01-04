@@ -1,1 +1,2 @@
-
+ 		
+local StarterGui = game:GetService("StarterGui")StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.backpack, true)
